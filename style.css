@@ -1,0 +1,10 @@
+header{
+  position: fixed;
+  background-color: #FFFFFF;
+  width: 100%;
+  z-index: 2;
+
+}
+header:hover{
+  box-shadow: 0px 0px 90px -1px rgba(0,0,0,3);
+  }
